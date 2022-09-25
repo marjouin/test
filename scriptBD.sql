@@ -85,11 +85,6 @@ INSERT INTO produit (id, description, prix, image, idCategorie) VALUES
 ('p07', 'Bioderma Cicabio creme SPF50+ 30ml', '13.70', 'images/bioderma-cicabio-creme-spf50-30ml.png', 'PS');
 
 --
--- Contraintes pour les tables exportées
---
-
-
---
 -- Contraintes pour la table produit
 --
 ALTER TABLE produit
